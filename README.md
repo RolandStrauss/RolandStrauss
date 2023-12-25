@@ -14,7 +14,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
 ### Skills
 
 <p align="left">
-<a href="https://commons.wikimedia.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/IBM_i_logo_%282021%29.svg" width="40" height="40" alt="IBMi" /></a>
+<a href="https://www.ibm.com/products/ibm-i" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/IBM_i_logo_%282021%29.svg" width="40" height="40" alt="IBMi" /></a>
 <a href="https://w7.pngwing.com" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/91/475/png-transparent-ibm-i-ibm-rpg-ibm-power-systems-program-temporary-fix-ibm-angle-triangle-logo.png" width="60" height="36" alt="RPGLE" /></a>
   
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
