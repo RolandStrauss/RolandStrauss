@@ -6,7 +6,7 @@ DevOps Systems Architect
 
 I have a versatile and adaptable career path. I can handle different roles from technical expert to managerial positions. I appreciate the opportunity to switch roles in my area of specialization, as it helps me stay updated and competitive in a dynamic and fast-moving industry. My aim is to maximize the value of the contemporary business by leveraging the full capabilities of IBM i for Business (AS/400) and the PowerSytems platform. I consider myself as a leader and an innovator in enterprise architecture, strategy and planning, and IT governance, with over 35 years of IT and business experience. I am an IBM i technology visionary & strategist. I have a history of creating and delivering cutting-edge business solutions. I have the skill and proven track record to communicate with customers, understand their needs & integrate them into business solutions. To learn more about my experience, please see my career history.
 
-*   🌍  I'm based in South Africa
+*   🌍  I'm based in Gauteng, South Africa
 *   ✉️  You can contact me at [rolandstrauss@outlook.com](mailto:rolandstrauss@outlook.com)
 *   🧠  I'm learning AWS, Cloud, TypeScript, NodeJS
 *   🤝  I'm open to collaborating on anything IBM i related
