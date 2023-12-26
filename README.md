@@ -8,7 +8,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
 
 *   🌍  I'm based in Gauteng, South Africa
 *   ✉️  You can contact me at [rolandstrauss@outlook.com](mailto:rolandstrauss@outlook.com)
-*   🧠  I'm learning AWS, Cloud, TypeScript, NodeJS
+*   🧠  I'm learning AWS, Cloud, TS, NodeJS, Grafana
 *   🤝  I'm open to collaborating on anything IBM i related
 
 ### Skills
