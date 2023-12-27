@@ -11,7 +11,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
 *   🤝  I'm open to collaborating on anything IBM i related
 
 ------------------------
-## 👨‍🎓 Skills
+## 👨‍🎓 Skills and Experience
 
 <p align="left">
 <a href="https://www.ibm.com/products/ibm-i" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/IBM_i_logo_%282021%29.svg" width="40" height="40" alt="IBMi" /></a> 
