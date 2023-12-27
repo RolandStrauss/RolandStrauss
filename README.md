@@ -39,8 +39,8 @@ I have a versatile and adaptable career path. I can handle different roles from 
 
 ### Badges
 <b> 📈 my github stats </b>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RolandStrauss&show_icons=true&theme=gotham" alt="Roland Strauss" />
-<a href="http://www.github.com/RolandStraus"><img src="https://github-readme-stats.vercel.app/api?username=RolandStraus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RolandStraus's GitHub stats" /></a>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RolandStrauss&show_icons=true&theme=gotham" alt="Roland's GitHub stats" />
+<--- <a href="http://www.github.com/RolandStraus"><img src="https://github-readme-stats.vercel.app/api?username=RolandStraus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RolandStraus's GitHub stats" /></a>
 
 <a href="http://www.github.com/RolandStraus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RolandStraus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -50,4 +50,4 @@ I have a versatile and adaptable career path. I can handle different roles from 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> /-->
