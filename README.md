@@ -28,8 +28,8 @@ I have a versatile and adaptable career path. I can handle different roles from 
 ## Certifications
 <a href="https://codeium.com/profile/rolandstrauss" target="_blank" rel="noreferrer"><img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Advanced_Certified_Emblem.png" width="36" height="36" alt="IBM Certification" /></a>
 * IBM Certified System Administrator - IBM i 7.1
-* IBM Certified Specialist -- System i Technical Solutions - Design (including i5/OS V5R4)
 * IBM Certified Specialist - High End Disk Solutions Version 5
+* IBM Certified Specialist -- System i Technical Solutions - Design (including i5/OS V5R4)
 
 ------------------------
 ## 🤳 Connect with me
