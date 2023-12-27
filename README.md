@@ -23,6 +23,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
 
 ------------------------
 ## 👨‍💻 Projects
+Currently I have no personel projects (🧫) on the go. I am currently busy with major projects and deliverables at my full time employer. However, I do have some exciting, gnarley and funky ideas that I plan to get off the ground in 2024.
 
 ------------------------
 ## Certifications
