@@ -28,7 +28,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
   
 <img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/devops.jpeg" width="30" height="30" alt="Pet Project" />  I am currently busy with major projects and deliverables at my full time employer.
 
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Mad%20Scientist.jpg" width="30" height="30" alt="Pet Project" /> However, I do have some exciting, gnarley and funky ideas that I plan to get off the ground in 2024.
+<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Mad%20Scientist.jpg" width="30" height="30" alt="Pet Project" /> However, I do have some exciting, gnarly and funky ideas that I plan to get off the ground in 2024.
 
 </p>
 
