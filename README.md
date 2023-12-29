@@ -9,7 +9,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
 *   ✉️  You can contact me at [rolandstrauss@outlook.com](mailto:rolandstrauss@outlook.com)
 *   🧠  I'm learning Azure DevOps; AWS; TS; NodeJS; Grafana
 *   🤝  I'm open to collaborating on anything IBM i related
-*   💬  Ask me about anything, I am happy to help
+*   💬  Ask me about anything, I'll help you where I can, but jobs that I'm getting paid for will always take priority.
 
 ------------------------
 ## 👨‍🎓 Skills and Experience
