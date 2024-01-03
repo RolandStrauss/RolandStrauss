@@ -10,11 +10,13 @@ I have a versatile and adaptable career path. I can handle different roles from 
 *   💬  Ask me about anything, I'll help you where I can, but jobs that I'm getting paid for will always take priority.
 
 ## 👨‍🎓 Skills and Experience (Tech Stack)
+<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/IBM_i_logo_%282021%29.svg" width="40" height="40" alt="IBMi" /> 
 <img src="https://w7.pngwing.com/pngs/91/475/png-transparent-ibm-i-ibm-rpg-ibm-power-systems-program-temporary-fix-ibm-angle-triangle-logo.png" width="60" height="36" alt="RPGLE" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 <img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/NodeJS.jpeg" width="36" height="36" alt="NodeJS" />
+</p>
 
 ## 👨‍💻 Projects
 <img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/pet-project.png" width="30" height="30" alt="Pet Project"/> Currently I have no personel projects on the go. 
