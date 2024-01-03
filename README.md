@@ -1,6 +1,6 @@
 # Hi, I'm Roland
 
-DevOps Systems Architect
+💫 DevOps Systems Architect
 ------------------------
 
 I have a versatile and adaptable career path. I can handle different roles from technical expert to managerial positions. I appreciate the opportunity to switch roles in my area of specialization, as it helps me stay updated and competitive in a dynamic and fast-moving industry. My aim is to maximize the value of the contemporary business by leveraging the full capabilities of IBM i for Business (AS/400) and the PowerSytems platform. I consider myself as a leader and an innovator in enterprise architecture, strategy and planning, and IT governance, with over 35 years of IT and business experience. I am an IBM i technology visionary & strategist. I have a history of creating and delivering cutting-edge business solutions. I have the skill and proven track record to communicate with customers, understand their needs & integrate them into business solutions. To learn more about my experience, please see my career history.
@@ -19,6 +19,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
 <a href="https://en.wikipedia.org/wiki/IBM_RPG" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/91/475/png-transparent-ibm-i-ibm-rpg-ibm-power-systems-program-temporary-fix-ibm-angle-triangle-logo.png" width="60" height="36" alt="RPGLE" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<img src="https://github.com/RolandStrauss/RolandStrauss/blop/main/NodeJS.jpeg" width="30" height="30" alt="NodeJS" />
 </p>
 
 ------------------------
@@ -26,9 +27,9 @@ I have a versatile and adaptable career path. I can handle different roles from 
 <p align="left">
 <img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/pet-project.png" width="30" height="30" alt="Pet Project" /> Currently I have no personel projects on the go. 
   
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/devops.jpeg" width="30" height="30" alt="Pet Project" />  I am currently busy with major projects and deliverables at my full time employer.
+<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/devops.jpeg" width="30" height="30" alt="DevOps" />  I am currently busy with major projects and deliverables at my full time employer.
 
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Mad%20Scientist.jpg" width="30" height="30" alt="Pet Project" /> However, I do have some exciting, gnarly and funky ideas that I plan to get off the ground in 2024.
+<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Mad%20Scientist.jpg" width="30" height="30" alt="Mad Scientist" /> However, I do have some exciting, gnarly and funky ideas that I plan to get off the ground in 2024.
 
 </p>
 
@@ -50,15 +51,29 @@ I have a versatile and adaptable career path. I can handle different roles from 
   <a href="https://rolandstrauss.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/logo_blogger_40px.png" width="36" height="36" alt="codeium" /></a>
 </p>
 
-## Badges
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RolandStrauss&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RolandStrauss&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandStrauss&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RolandStrauss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RolandStrauss&icon=1&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
+<!-- <b>My GitHub Stats</b>
 
 <img src="https://github-readme-stats.vercel.app/api?username=RolandStrauss&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RolandStrauss's GitHub stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolandStrauss&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RolandStrauss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RolandStrauss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> -->
 
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RolandStrauss&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> -->
 
@@ -71,3 +86,28 @@ I have a versatile and adaptable career path. I can handle different roles from 
 </div> -->
 
 <!-- <br /><br /><br /><br /><br /><br /><br /> -->
+
+<!-- # 💫 About Me:
+Hi, I'm Roland<br>DevOps Systems Architect<br>I have a versatile and adaptable career path. I can handle different roles from technical expert to managerial positions. I appreciate the opportunity to switch roles in my area of specialization, as it helps me stay updated and competitive in a dynamic and fast-moving industry. My aim is to maximize the value of the contemporary business by leveraging the full capabilities of IBM i for Business (AS/400) and the PowerSytems platform. I consider myself as a leader and an innovator in enterprise architecture, strategy and planning, and IT governance, with over 35 years of IT and business experience. I am an IBM i technology visionary & strategist. I have a history of creating and delivering cutting-edge business solutions. I have the skill and proven track record to communicate with customers, understand their needs & integrate them into business solutions. To learn more about my experience, please see my career history.<br><br>🌍  I'm based in Gauteng, South Africa<br>✉️  You can contact me at rolandstrauss@outlook.com<br>🧠  I'm learning Azure DevOps; AWS; TS; NodeJS; Grafana<br>🤝  I'm open to collaborating on anything IBM i related<br>💬 Ask me about anything, I'll help you where I can, but jobs that I'm getting paid for will always take priority.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rolandstrauss) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RolandHStrauss) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RolandStrauss&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RolandStrauss&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandStrauss&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RolandStrauss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RolandStrauss&icon=1&color=8)](https://visitcount.itsvg.in)
+
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
