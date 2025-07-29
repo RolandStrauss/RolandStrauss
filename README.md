@@ -23,7 +23,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
 
 <img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/devops.jpeg" width="30" height="30" alt="DevOps"/>  I am currently busy with a major projects: Modernizing (SDLC) Development Environment on IBM i.
 
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Mad%20Scientist.jpg" width="30" height="30" alt="Mad Scientist"/> However, I do have some exciting, gnarly and funky ideas that I plan to get off the ground in 2024.
+<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Mad%20Scientist.jpg" width="30" height="30" alt="Mad Scientist"/> However, I do have some exciting, gnarly and funky ideas that I plan to get off the ground in 2025/2026.
 
 ## Certifications
 <a href="https://www.ibm.com/training/credentials" target="_blank" rel="noreferrer"><img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Advanced_Certified_Emblem.png" width="42" height="42" alt="IBM Certification" /></a>
