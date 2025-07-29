@@ -21,7 +21,7 @@ I have a versatile and adaptable career path. I can handle different roles from 
 ## 👨‍💻 Projects
 <img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/pet-project.png" width="30" height="30" alt="Pet Project"/> Currently I have no personel projects on the go. 
 
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/devops.jpeg" width="30" height="30" alt="DevOps"/>  I am currently busy with major projects and deliverables at my full time employer.
+<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/devops.jpeg" width="30" height="30" alt="DevOps"/>  I am currently busy with a major projects: Modernizing (SDLC) Development Environment on IBM i.
 
 <img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Mad%20Scientist.jpg" width="30" height="30" alt="Mad Scientist"/> However, I do have some exciting, gnarly and funky ideas that I plan to get off the ground in 2024.
 
