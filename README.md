@@ -1,11 +1,18 @@
 # Hi, I'm Roland
 
 ## 💫 IT Architect
-I have a versatile and adaptable career path. I can handle different roles from technical expert to managerial positions. I appreciate the opportunity to switch roles in my area of specialization, as it helps me stay updated and competitive in a dynamic and fast-moving industry. My aim is to maximize the value of the contemporary business by leveraging the full capabilities of IBM i for Business (AS/400) and the PowerSytems platform. I consider myself as a leader and an innovator in enterprise architecture, strategy and planning, and IT governance, with over 35 years of IT and business experience. I am an IBM i technology visionary & strategist. I have a history of creating and delivering cutting-edge business solutions. I have the skill and proven track record to communicate with customers, understand their needs & integrate them into business solutions. To learn more about my experience, please see my career history.
+I’ve spent four decades helping companies bring IBM i (AS/400, iSeries) into the modern cloud era. In my current role I lead the modernization program and recently built a Visual Studio Code extension that automates CI/CD for IBM i. The extension ties GitLab, Jira and REST APIs into a single UI, letting our legacy platform work with today’s toolchains.
+
+My toolkit blends deep IBM i expertise (RPGLE) with modern languages: TypeScript, JavaScript, Python and cloud experience on AWS. I use GitHub Copilot to keep code tidy and boost productivity, and I’ve pushed Git‑based version control and CI/CD pipelines across the team. Due to my knowledge within the IBM i eco-system, I have been heavily involved with upskilling various teams, through being part of a RPG Academy, hosting regular webinars, hosting virtual sessions, lecturing and presenting in-person classes. 
+
+Leadership & community impact
+From developer to senior architect, I’ve guided cross‑functional teams through tough modernization projects and mentored many engineers. I run an internal RPGLE academy where I share practical knowledge. Outside work I’ve been a municipal ward chairperson since 2000, earning several mayoral awards for community service, and I’ve been a member of the Unashamedly Ethical movement for 16 years, underscoring my focus on integrity and accountable leadership.
+
+I’m driven by purposeful innovation, building technology that serves both business goals and the broader community.
 
 *   🌍  I'm based in Gauteng, South Africa
 *   ✉️  You can contact me at [rolandstrauss@outlook.com](mailto:rolandstrauss@outlook.com)
-*   🧠  I'm learning Azure DevOps; AWS; TypeScript; Grafana
+*   🧠  I'm currently improving my skill in respect of Azure DevOps; AWS; TypeScript; Grafana; DataDog
 *   🤝  I'm open to collaborating on anything IBM i related
 *   💬  Ask me about anything, I'll help you where I can, but jobs that I'm getting paid for will always take priority.
 
