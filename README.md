@@ -5,7 +5,7 @@ I’ve spent four decades helping companies bring IBM i (AS/400, iSeries) into
 
 My toolkit blends deep IBM i expertise (RPGLE) with modern languages: TypeScript, JavaScript, Python and cloud experience on AWS. I use GitHub Copilot to keep code tidy and boost productivity, and I’ve pushed Git‑based version control and CI/CD pipelines across the team. Due to my knowledge within the IBM i eco-system, I have been heavily involved with upskilling various teams, through being part of a RPG Academy, hosting regular webinars, hosting virtual sessions, lecturing and presenting in-person classes. 
 
-###Leadership & community impact
+### Leadership & community impact
 From developer to senior architect, I’ve guided cross‑functional teams through tough modernization projects and mentored many engineers. I run an internal RPGLE academy where I share practical knowledge. Outside work I’ve been a municipal ward chairperson since 2000, earning several mayoral awards for community service, and I’ve been a member of the Unashamedly Ethical movement for 16 years, underscoring my focus on integrity and accountable leadership.
 
 I’m driven by purposeful innovation, building technology that serves both business goals and the broader community.
