@@ -1,7 +1,7 @@
 # Hi, I'm Roland
 
 ## 💫 IT Architect
-I’ve spent four decades helping companies bring IBM i (AS/400, iSeries) into the modern cloud era. In my current role I lead the modernization program and recently built a Visual Studio Code extension that automates CI/CD for IBM i. The extension ties GitLab, Jira and REST APIs into a single UI, letting our legacy platform work with today’s toolchains.
+I’ve spent four decades helping companies bring IBM i (AS/400, iSeries) into the modern cloud era. In my current role I lead the modernization program and recently built a Visual Studio Code extension that automates CI/CD for IBM i. The extension ties GitLab, Jira and IBM i into a single UI, letting our legacy platform work with today’s toolchains.
 
 My toolkit blends deep IBM i expertise (RPGLE) with modern languages: TypeScript, JavaScript, Python and cloud experience on AWS. I use GitHub Copilot to keep code tidy and boost productivity, and I’ve pushed Git‑based version control and CI/CD pipelines across the team. Due to my knowledge within the IBM i eco-system, I have been heavily involved with upskilling various teams, through being part of a RPG Academy, hosting regular webinars, hosting virtual sessions, lecturing and presenting in-person classes. 
 
