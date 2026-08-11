@@ -1,14 +1,17 @@
 # Hi, I'm Roland
 
-## 💫 IT Architect
-I’ve spent four decades helping companies bring IBM i (AS/400, iSeries) into the modern cloud era. In my current role I lead the modernization program and recently built a Visual Studio Code extension that automates CI/CD for IBM i. The extension ties GitLab, Jira and IBM i into a single UI, letting our legacy platform work with today’s toolchains.
+## 💫 Transformation Enablement Architect
+I help organizations modernize legacy IBM i systems without risking the core business logic that took decades to build.
 
-My toolkit blends deep IBM i expertise (RPGLE) with modern languages: TypeScript, JavaScript, Python and cloud experience on AWS. I use GitHub Copilot to keep code tidy and boost productivity, and I’ve pushed Git‑based version control and CI/CD pipelines across the team. Due to my knowledge within the IBM i eco-system, I have been heavily involved with upskilling various teams, through being part of a RPG Academy, hosting regular webinars, hosting virtual sessions, lecturing and presenting in-person classes. 
+Over 30+ years in software engineering and enterprise architecture, I have seen too many "rip-and-replace" projects stall or fail because teams tried to throw out working infrastructure. My focus is on practical transformation enablement: making legacy RPG code clean, maintainable, and fully accessible to modern development tooling.
 
-### Leadership & community impact
-From developer to senior architect, I’ve guided cross‑functional teams through tough modernization projects and mentored many engineers. I run an internal RPGLE academy where I share practical knowledge. Outside work I’ve been a municipal ward chairperson since 2000, earning several mayoral awards for community service, and I’ve been a member of the Unashamedly Ethical movement for 16 years, underscoring my focus on integrity and accountable leadership.
+What I focus on:
+• IBM i & RPGLE Modernization: Structuring legacy source code, panel groups, and DB2 logic for long-term stability and easier maintenance.
+• Tooling & Developer Experience: Integrating Git version control, VS Code, and automated build pipelines into traditional IBM i environments.
+• Integration & Architecture: Connecting core enterprise logic with modern APIs, web services, and front-end frameworks.
+• Workflow Enablement: Giving internal development teams the practices and tooling they need to ship faster without losing system reliability.
 
-I’m driven by purposeful innovation, building technology that serves both business goals and the broader community.
+Whether you need to refactor complex RPG application logic, update developer workflows, or build an integration strategy, feel free to send me a message.
 
 *   🌍  I'm based in Gauteng, South Africa
 *   ✉️  You can contact me at [rolandstrauss@outlook.com](mailto:rolandstrauss@outlook.com)
