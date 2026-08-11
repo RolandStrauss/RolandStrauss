@@ -6,10 +6,10 @@ I help organizations modernize legacy IBM i systems without risking the core bus
 Over 30+ years in software engineering and enterprise architecture, I have seen too many "rip-and-replace" projects stall or fail because teams tried to throw out working infrastructure. My focus is on practical transformation enablement: making legacy RPG code clean, maintainable, and fully accessible to modern development tooling.
 
 What I focus on:
-• IBM i & RPGLE Modernization: Structuring legacy source code, panel groups, and DB2 logic for long-term stability and easier maintenance.
-• Tooling & Developer Experience: Integrating Git version control, VS Code, and automated build pipelines into traditional IBM i environments.
-• Integration & Architecture: Connecting core enterprise logic with modern APIs, web services, and front-end frameworks.
-• Workflow Enablement: Giving internal development teams the practices and tooling they need to ship faster without losing system reliability.
+* IBM i & RPGLE Modernization: Structuring legacy source code, panel groups, and DB2 logic for long-term stability and easier maintenance.
+* Tooling & Developer Experience: Integrating Git version control, VS Code, and automated build pipelines into traditional IBM i environments.
+* Integration & Architecture: Connecting core enterprise logic with modern APIs, web services, and front-end frameworks.
+* Workflow Enablement: Giving internal development teams the practices and tooling they need to ship faster without losing system reliability.
 
 Whether you need to refactor complex RPG application logic, update developer workflows, or build an integration strategy, feel free to send me a message.
 
