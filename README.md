@@ -1,66 +1,147 @@
-# Hi, I'm Roland
+# Hi, I'm Roland 👋
 
-## 💫 Transformation Architect
-I help organizations modernize legacy IBM i systems without risking the core business logic that took decades to build.
+## Transformation Architect | IBM i Modernization | DevOps | AI-Assisted Engineering
 
-Over 30+ years in software engineering and enterprise architecture, I have seen too many "rip-and-replace" projects stall or fail because teams tried to throw out working infrastructure. My focus is on practical transformation enablement: making legacy RPG code clean, maintainable, and fully accessible to modern development tooling.
+I help organizations modernize long-lived IBM i systems without throwing away the business logic that still keeps the business moving.
 
-What I focus on:
-* IBM i & RPGLE Modernization: Structuring legacy source code, panel groups, and DB2 logic for long-term stability and easier maintenance.
-* Tooling & Developer Experience: Integrating Git version control, VS Code, and automated build pipelines into traditional IBM i environments.
-* Integration & Architecture: Connecting core enterprise logic with modern APIs, web services, and front-end frameworks.
-* Workflow Enablement: Giving internal development teams the practices and tooling they need to ship faster without losing system reliability.
+With **30+ years in software engineering and enterprise architecture**, I focus on practical transformation: improving code quality, delivery workflows, developer tooling, and modernization strategy in ways that respect operational stability.
 
-Whether you need to refactor complex RPG application logic, update developer workflows, or build an integration strategy, feel free to send me a message.
+Over the last **7 years**, I’ve worked deeply in the **DevOps** space, improving SDLC practices, automation, delivery workflows, and engineering discipline.  
+Over the last **3 years**, I’ve also been working hands-on in the **AI** field, with a practical focus on **AI-assisted development, code generation, documentation, analysis, and developer tooling**.
 
-*   🌍  I'm based in Gauteng, South Africa
-*   ✉️  You can contact me at [rolandstrauss@outlook.com](mailto:rolandstrauss@outlook.com)
-*   🧠  I'm currently improving my skill in respect of Azure DevOps; AWS; TypeScript; Grafana; DataDog
-*   🤝  I'm open to collaborating on anything IBM i related
-*   💬  Ask me about anything, I'll help you where I can, but jobs that I'm getting paid for will always take priority.
-
-## 👨‍🎓 Skills and Experience (Tech Stack)
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/IBM_i_logo_%282021%29.svg" width="40" height="40" alt="IBMi" /> 
-<img src="https://w7.pngwing.com/pngs/91/475/png-transparent-ibm-i-ibm-rpg-ibm-power-systems-program-temporary-fix-ibm-angle-triangle-logo.png" width="60" height="36" alt="RPGLE" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/NodeJS.jpeg" width="36" height="36" alt="NodeJS" />
-</p>
-
-## 👨‍💻 Projects
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/pet-project.png" width="30" height="30" alt="Pet Project"/> Currently I have no personel projects on the go. 
-
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/devops.jpeg" width="30" height="30" alt="DevOps"/>  I am currently busy with a major projects: Modernizing (SDLC) Development Environment on IBM i.
-
-<img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Mad%20Scientist.jpg" width="30" height="30" alt="Mad Scientist"/> However, I do have some exciting, gnarly and funky ideas that I plan to get off the ground in 2025/2026.
-
-## Certifications
-<a href="https://www.ibm.com/training/credentials" target="_blank" rel="noreferrer"><img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/Advanced_Certified_Emblem.png" width="42" height="42" alt="IBM Certification" /></a>
-* IBM Certified System Administrator - IBM i 7.1
-* IBM Certified Specialist - High End Disk Solutions Version 5
-* IBM Certified Specialist - System i Technical Solutions - Design (including i5/OS V5R4)
-
-------------------------
-## 🤳 Connect with me
-  <a href="https://www.github.com/RolandStraus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-  <a href="https://www.linkedin.com/in/rolandstrauss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-  <a href="https://www.x.com/RolandHStrauss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://codeium.com/profile/rolandstrauss" target="_blank" rel="noreferrer"><img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/codeium.jpeg" width="36" height="36" alt="codeium" /></a>
-  <a href="https://rolandstrauss.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://github.com/RolandStrauss/RolandStrauss/blob/main/logo_blogger_40px.png" width="36" height="36" alt="BlogSpot" /></a>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RolandStrauss&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RolandStrauss&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandStrauss&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RolandStrauss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Projects like **Ferraria** and **Lancelot**, together with my work supporting developers through the **Momentum RPGLE Academy**, reflect the way I approach change: modernize what matters, preserve what works, and help teams move forward with confidence.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RolandStrauss&icon=1&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Badges
+
+![IBM i](https://img.shields.io/badge/IBM%20i-Modernization-052FAD?style=for-the-badge)
+![RPGLE](https://img.shields.io/badge/RPGLE-Structured%20Engineering-6C2DC7?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-7%2B%20Years-0A7E3B?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-3%2B%20Years-8A2BE2?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-Developer%20Tooling-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-Extension%20Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-Workflow%20Integration-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Delivery%20Practices-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+---
+
+## What I focus on
+
+- **IBM i modernization that respects existing business value**  
+  I work to improve maintainability, delivery, and visibility without defaulting to rip-and-replace approaches.
+
+- **DevOps enablement for IBM i teams**  
+  I help teams improve version control, workflow automation, release discipline, and development practices around IBM i delivery.
+
+- **AI-assisted engineering**  
+  I use AI in ways that are practical and useful: code generation, documentation, analysis, workflow support, and developer enablement.
+
+- **Developer tooling and workflow design**  
+  I build and shape tools that make IBM i environments easier to navigate, modernize, and operate.
+
+- **Training and capability growth**  
+  Through the **Momentum RPGLE Academy**, I provide training and practical assistance to help developers strengthen RPGLE skills and adopt modern ways of working.
+
+---
+
+## Core skills
+
+### IBM i and Legacy Modernization
+- RPGLE
+- SQLRPGLE
+- CLLE
+- DDS
+- DSPF
+- UIM
+- COBOL scaffolding
+- DB2 for i
+- Structured modernization and technical documentation
+
+### Architecture and Analysis
+- Enterprise architecture
+- Systems analysis
+- Integration design
+- Jackson Structured Development
+- Workflow and delivery design
+- Modernization planning
+
+### DevOps and Delivery
+- Git
+- GitLab workflows
+- Jira-linked delivery processes
+- CI/CD enablement
+- Automation and orchestration
+- Build and deployment workflow improvement
+- Environment onboarding and developer enablement
+
+### Development and Tooling
+- TypeScript
+- VS Code extension development
+- Developer tooling
+- Documentation systems
+- Code analysis
+- Workflow orchestration
+- Technical writing
+
+### AI and Enablement
+- AI-assisted development
+- Code generation
+- Documentation automation
+- Prompt and workflow design
+- Analysis support tooling
+- Developer mentoring and training
+
+### Platforms and Observability
+- Azure DevOps
+- AWS
+- Grafana
+- Datadog
+
+---
+
+## Projects
+
+### Ferraria
+**Ferraria** is an IBM i modernization workbench for VS Code. It brings together projects, build workflows, impact analysis, IBM i operations, documentation, governance, onboarding, and code quality into a single, persistent delivery experience.
+
+### Lancelot
+**Lancelot** helps keep delivery context aligned across Git, Jira, IBM i libraries, deployment paths, and object references, making IBM i work more traceable, more structured, and less dependent on guesswork.
+
+### Momentum RPGLE Academy
+Through the **Momentum RPGLE Academy**, I provide training and practical assistance to developers who want to strengthen their RPGLE capability, improve their development practices, and grow more confident using modern tooling in IBM i environments.
+
+---
+
+## Working style
+
+I prefer modernization that is:
+- **practical**
+- **incremental**
+- **well-structured**
+- **tool-enabled**
+- **safe for real production environments**
+
+I’m especially interested in helping teams improve the way they **build, document, deliver, support, and evolve** IBM i systems.
+
+---
+
+## Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-RolandStrauss-181717?style=for-the-badge&logo=github)](https://github.com/RolandStrauss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roland%20Strauss-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolandstrauss)
+[![Email](https://img.shields.io/badge/Email-rolandstrauss%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rolandstrauss@outlook.com)
+
+---
+
+## A few current interests
+
+- IBM i modernization with better engineering workflows
+- AI-assisted development for enterprise delivery teams
+- VS Code tooling for legacy and hybrid environments
+- DevOps practices that work in real-world IBM i organizations
+- Training, mentoring, and developer uplift
+
+---
+
+**Built with ❤️ for IBM i developers**
