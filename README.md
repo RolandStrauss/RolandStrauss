@@ -1,6 +1,6 @@
 # Hi, I'm Roland
 
-## 💫 Transformation Enablement Architect
+## 💫 Transformation Architect
 I help organizations modernize legacy IBM i systems without risking the core business logic that took decades to build.
 
 Over 30+ years in software engineering and enterprise architecture, I have seen too many "rip-and-replace" projects stall or fail because teams tried to throw out working infrastructure. My focus is on practical transformation enablement: making legacy RPG code clean, maintainable, and fully accessible to modern development tooling.
