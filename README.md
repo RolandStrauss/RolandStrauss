@@ -4,7 +4,7 @@
 
 I help organizations modernize long-lived IBM i systems without throwing away the business logic that still keeps the business moving.
 
-With **30+ years in software engineering and enterprise architecture**, I focus on practical transformation: improving code quality, delivery workflows, developer tooling, and modernization strategy in ways that respect operational stability.
+With **35+ years in software engineering and enterprise architecture**, I focus on practical transformation: improving code quality, delivery workflows, developer tooling, and modernization strategy in ways that respect operational stability.
 
 Over the last **7 years**, I’ve worked deeply in the **DevOps** space, improving SDLC practices, automation, delivery workflows, and engineering discipline.  
 Over the last **3 years**, I’ve also been working hands-on in the **AI** field, with a practical focus on **AI-assisted development, code generation, documentation, analysis, and developer tooling**.
@@ -109,7 +109,7 @@ Projects like **Ferraria** and **Lancelot**, together with my work supporting de
 **Lancelot** helps keep delivery context aligned across Git, Jira, IBM i libraries, deployment paths, and object references, making IBM i work more traceable, more structured, and less dependent on guesswork.
 
 ### Momentum RPGLE Academy
-Through the **Momentum RPGLE Academy**, I provide training and practical assistance to developers who want to strengthen their RPGLE capability, improve their development practices, and grow more confident using modern tooling in IBM i environments.
+Through the **Momentum RPGLE Academy**, I provided training and practical assistance to developers who want to strengthen their RPGLE capability, improve their development practices, and grow more confident using modern tooling in IBM i environments.
 
 ---
 
