@@ -17,7 +17,7 @@ Projects like **Ferraria** and **Lancelot**, together with my work supporting de
 
 ![IBM i](https://img.shields.io/badge/IBM%20i-Modernization-052FAD?style=for-the-badge)
 ![RPGLE](https://img.shields.io/badge/RPGLE-Structured%20Engineering-6C2DC7?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-7%2B%20Years-0A7E3B?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-14%2B%20Years-0A7E3B?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-3%2B%20Years-8A2BE2?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Developer%20Tooling-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-Extension%20Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
