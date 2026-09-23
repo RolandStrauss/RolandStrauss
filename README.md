@@ -6,7 +6,7 @@ I help organizations modernize long-lived IBM i systems without throwing away th
 
 With **35+ years in software engineering and enterprise architecture**, I focus on practical transformation: improving code quality, delivery workflows, developer tooling, and modernization strategy in ways that respect operational stability.
 
-Over the last **7 years**, I’ve worked deeply in the **DevOps** space, improving SDLC practices, automation, delivery workflows, and engineering discipline.  
+Over the last **14+ years**, I’ve worked deeply in the **DevSecOps** space, improving SDLC practices, automation, delivery workflows, and engineering discipline.  
 Over the last **3 years**, I’ve also been working hands-on in the **AI** field, with a practical focus on **AI-assisted development, code generation, documentation, analysis, and developer tooling**.
 
 Projects like **Ferraria** and **Lancelot**, together with my work supporting developers through the **Momentum RPGLE Academy**, reflect the way I approach change: modernize what matters, preserve what works, and help teams move forward with confidence.
