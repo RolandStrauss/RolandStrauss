@@ -9,7 +9,7 @@ With **35+ years in software engineering and enterprise architecture**, I focus 
 Over the last **14+ years**, I’ve worked deeply in the **DevSecOps** space, improving SDLC practices, automation, delivery workflows, and engineering discipline.  
 Over the last **3 years**, I’ve also been working hands-on in the **AI** field, with a practical focus on **AI-assisted development, code generation, documentation, analysis, and developer tooling**.
 
-Projects like **Ferraria** and **Lancelot**, together with my work supporting developers through the **Momentum RPGLE Academy**, reflect the way I approach change: modernize what matters, preserve what works, and help teams move forward with confidence.
+Projects like **IBM i Modernization Workbench** and **SCM GitLab-assisted workflows specifically designed for IBM i development**, together with my work supporting developers through various **IBM i training and knowledge sharing initiatives**, reflect the way I approach change: modernize what matters, preserve what works, and help teams move forward with confidence.
 
 ---
 
@@ -21,8 +21,8 @@ Projects like **Ferraria** and **Lancelot**, together with my work supporting de
 ![AI](https://img.shields.io/badge/AI-3%2B%20Years-8A2BE2?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Developer%20Tooling-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-Extension%20Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow%20Integration-FC6D26?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-Workflow%20Integration-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Delivery%20Practices-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
@@ -41,7 +41,7 @@ Projects like **Ferraria** and **Lancelot**, together with my work supporting de
   I build and shape tools that make IBM i environments easier to navigate, modernize, and operate.
 
 - **Training and capability growth**  
-  Through the **Momentum RPGLE Academy**, I provide training and practical assistance to help developers strengthen RPGLE skills and adopt modern ways of working.
+  Through various skilling and knowledgesharing initiatives, I provide training and practical assistance to help developers strengthen RPGLE skills and adopt modern ways of working.
 
 ---
 
@@ -97,19 +97,6 @@ Projects like **Ferraria** and **Lancelot**, together with my work supporting de
 - AWS
 - Grafana
 - Datadog
-
----
-
-## Projects
-
-### Ferraria
-**Ferraria** is an IBM i modernization workbench for VS Code. It brings together projects, build workflows, impact analysis, IBM i operations, documentation, governance, onboarding, and code quality into a single, persistent delivery experience.
-
-### Lancelot
-**Lancelot** helps keep delivery context aligned across Git, Jira, IBM i libraries, deployment paths, and object references, making IBM i work more traceable, more structured, and less dependent on guesswork.
-
-### Momentum RPGLE Academy
-Through the **Momentum RPGLE Academy**, I provided training and practical assistance to developers who want to strengthen their RPGLE capability, improve their development practices, and grow more confident using modern tooling in IBM i environments.
 
 ---
 
