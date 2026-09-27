@@ -1,6 +1,10 @@
 # Hi, I'm Roland 👋
 
-## Transformation Architect | IBM i Modernization | DevOps | AI-Assisted Engineering
+## I am an IT Architect | Transformation Architect 
+### Specializing in 
+- IBM i Modernization
+- DevSecOps
+- AI-Assisted Engineering
 
 I help organizations modernize long-lived IBM i systems without throwing away the business logic that still keeps the business moving.
 
